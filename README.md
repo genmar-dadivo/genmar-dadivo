@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently focusing building website in **Wordpress**
 
-- 👨‍💻 All of my projects are available at [https://genmar-dadivo.github.io/](https://genmar-dadivo.github.io/)
+- 👨‍💻 All of my projects are available at [https://genmardadivo.tech/](https://genmardadivo.tech/)
 
 - 📫 How to reach me **genmar.dadivo.25@gmail.com**
 
