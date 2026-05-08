@@ -1,7 +1,11 @@
 <h1 align="center">Genmar Dadivo</h1>
 
 <p align="center">
-  Full-stack web developer from the Philippines building clean, responsive websites with WordPress, PHP, Laravel, JavaScript, and modern frontend tools.
+  Full-stack Web Developer and Technical SEO Specialist from the Philippines.
+</p>
+
+<p align="center">
+  I build, maintain, optimize, and automate websites with a focus on WordPress, PHP, CMS platforms, technical SEO, and clean user experiences.
 </p>
 
 <p align="center">
@@ -16,13 +20,38 @@
 
 ### About
 
-I enjoy turning ideas into practical, polished web experiences. My work focuses on WordPress websites, responsive frontend development, backend functionality, and clean user interfaces.
+I work across web development, technical SEO, website maintenance, automation, and reporting. My background includes building internal business applications, maintaining client websites, improving site health, and creating workflows that make recurring tasks easier to manage.
 
-Currently, I am focused on building better websites with **WordPress** while continuing to grow across full-stack development.
+Currently focused on **WordPress development**, **technical SEO**, and practical automation for website operations.
+
+### Core Skills
+
+- Website development and maintenance
+- WordPress, CMS setup, and custom site improvements
+- Technical SEO audits, schema markup, indexing, and site health monitoring
+- DNS configuration, SSL setup, hosting panels, and website security checks
+- Reporting automation, analytics tracking, and documentation
 
 ### Tech Stack
 
-`WordPress` `PHP` `Laravel` `JavaScript` `React` `Next.js` `Node.js` `MySQL` `MSSQL` `HTML` `CSS` `Tailwind CSS` `Bootstrap` `Git` `Figma`
+`WordPress` `PHP` `MySQL` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Laravel` `React` `Next.js` `Node.js` `Git`
+
+### Platforms and Tools
+
+`Shopify` `Wix` `HubSpot` `Squarespace` `cPanel` `hPanel` `Google Search Console` `Google Analytics` `Ahrefs` `Semrush` `Meta Ads` `n8n` `Zapier` `Figma`
+
+### Experience
+
+- **Associate Technical SEO Lead** at ExaWeb Corporation
+- **Social Media Manager / Webmaster** at Culion Foundation
+- **Web Developer** at Outsource Accelerator
+- **Full-stack Web Developer** at Zesto Corporation
+- **Full-stack Web Developer** at Pandayan Bookshop
+
+### Education
+
+**Bachelor of Science in Information Technology**  
+City of Malabon University
 
 ### Contact
 
